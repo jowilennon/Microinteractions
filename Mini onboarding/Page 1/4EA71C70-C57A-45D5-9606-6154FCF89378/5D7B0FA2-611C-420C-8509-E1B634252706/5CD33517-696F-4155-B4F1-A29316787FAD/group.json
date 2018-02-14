@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "5CD33517-696F-4155-B4F1-A29316787FAD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 198,
+    "width": 197,
+    "x": 370,
+    "y": 39
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A91FC05F-9199-4425-AFAC-09301E16F760"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C15BA7BA-FAC4-466B-B627-4ED76D30320D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "482A1536-8967-49DD-882B-FE629DBCF9EB"
+    }
+  ],
+  "name": "ic_camera_alt_black_48px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

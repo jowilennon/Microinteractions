@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "E8C13EB3-0A3C-4678-88B9-DB769DC491CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 200,
+    "width": 197,
+    "x": 681,
+    "y": 37
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1500C191-C031-4E54-92CA-077C16132687"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1F29AFEF-3944-40A3-94FA-DE2FED479088"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CC54A754-8620-4131-9F61-CB2B7346E856"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E59B0931-4DFE-4402-9E09-EDAB02965F84"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "45DD332C-AB2E-4DA3-A877-E8BD1CDD07C9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9FF2C771-D60E-40F6-AFD0-BFEFB5A93C05"
+    }
+  ],
+  "name": "ic_pets_black_48px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
